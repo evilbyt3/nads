@@ -20,8 +20,6 @@ You can also choose a theme with the _**-t**_ flag, from the suppoerted themes:
 ![Nads_1_1](screenshots/Nads1_1.png)<br />
 ![Nads_2_0](screenshots/Nads2_0.png)<br />
 ![Nads_2_1](screenshots/Nads2_1.png)<br />
-![Nads_3_0](screenshots/Nads3_0.png)<br />
-![Nads_3_1](screenshots/Nads3_1.png)
 ## Dependecies
 - [npyscreen](https://npyscreen.readthedocs.io/introduction.html)
 - [scapy](https://scapy.readthedocs.io/en/latest/)
