@@ -1,6 +1,8 @@
 # NADS
 A monitoring app for open ports, network traffic, daemons, connections and much more.
 
+> **NOTE !!**: This repository is an old one & is no longer mantained
+
 ## Installing & Usage
 You just need to clone the repository and make Nads.py executable: ```chmod +x Nads.py```.<br />
 **Note:** Looking forward to make possible installing it through pip.<br />
